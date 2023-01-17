@@ -1,0 +1,15 @@
+C:\Users\Новый профиль\Desktop\Лекция 1\Examplies\Example001_NewComsole\bin\Debug\net6.0\Example001_NewComsole.exe
+C:\Users\Новый профиль\Desktop\Лекция 1\Examplies\Example001_NewComsole\bin\Debug\net6.0\Example001_NewComsole.deps.json
+C:\Users\Новый профиль\Desktop\Лекция 1\Examplies\Example001_NewComsole\bin\Debug\net6.0\Example001_NewComsole.runtimeconfig.json
+C:\Users\Новый профиль\Desktop\Лекция 1\Examplies\Example001_NewComsole\bin\Debug\net6.0\Example001_NewComsole.dll
+C:\Users\Новый профиль\Desktop\Лекция 1\Examplies\Example001_NewComsole\bin\Debug\net6.0\Example001_NewComsole.pdb
+C:\Users\Новый профиль\Desktop\Лекция 1\Examplies\Example001_NewComsole\obj\Debug\net6.0\Example001_NewComsole.csproj.AssemblyReference.cache
+C:\Users\Новый профиль\Desktop\Лекция 1\Examplies\Example001_NewComsole\obj\Debug\net6.0\Example001_NewComsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Новый профиль\Desktop\Лекция 1\Examplies\Example001_NewComsole\obj\Debug\net6.0\Example001_NewComsole.AssemblyInfoInputs.cache
+C:\Users\Новый профиль\Desktop\Лекция 1\Examplies\Example001_NewComsole\obj\Debug\net6.0\Example001_NewComsole.AssemblyInfo.cs
+C:\Users\Новый профиль\Desktop\Лекция 1\Examplies\Example001_NewComsole\obj\Debug\net6.0\Example001_NewComsole.csproj.CoreCompileInputs.cache
+C:\Users\Новый профиль\Desktop\Лекция 1\Examplies\Example001_NewComsole\obj\Debug\net6.0\Example001_NewComsole.dll
+C:\Users\Новый профиль\Desktop\Лекция 1\Examplies\Example001_NewComsole\obj\Debug\net6.0\refint\Example001_NewComsole.dll
+C:\Users\Новый профиль\Desktop\Лекция 1\Examplies\Example001_NewComsole\obj\Debug\net6.0\Example001_NewComsole.pdb
+C:\Users\Новый профиль\Desktop\Лекция 1\Examplies\Example001_NewComsole\obj\Debug\net6.0\Example001_NewComsole.genruntimeconfig.cache
+C:\Users\Новый профиль\Desktop\Лекция 1\Examplies\Example001_NewComsole\obj\Debug\net6.0\ref\Example001_NewComsole.dll
